@@ -8,7 +8,6 @@ This project conducts a detailed analysis of Diwali sales data to uncover key tr
 - Pandas
 - NumPy
 - Matplotlib & Seaborn
-- Scikit-learn
 
 ## Repository Structure
 - `data/`: Contains raw and processed datasets
